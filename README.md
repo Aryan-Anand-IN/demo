@@ -1,4 +1,4 @@
 # demo
 first git repository
 <br>
-author - aryan
+author - aryan anand
